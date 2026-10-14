@@ -1,6 +1,6 @@
 ### Product builder working on applied AI for regulated industries
 
-I build 0-to-1 products and AI-enabled platforms across fintech, capital markets, insurance, SaaS and mobility. Most of my work sits where software meets compliance: products that have to be correct, explainable and auditable before they can ship.
+I build 0-to-1 products and AI-enabled platforms. Most of my work sits where software meets compliance: products that have to be correct, explainable and auditable before they can ship.
 
 **What I'm working on**
 
